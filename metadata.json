@@ -1,0 +1,5 @@
+{
+  "name": "Java Quest",
+  "description": "An interactive quiz app to test your Java knowledge. Earn points, track your progress, and redeem your points for virtual rewards.",
+  "requestFramePermissions": []
+}
