@@ -1,6 +1,5 @@
 # Fundamentals of Java Programming
 
-![Java Banner](https://www.oracle.com/a/tech/img/rc10-java-badge-developer.png)
 
 ## Welcome to the Fundamentals of Java Programming!
 
